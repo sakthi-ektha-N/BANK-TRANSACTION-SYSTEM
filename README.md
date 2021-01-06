@@ -1,1 +1,3 @@
 # BANK-TRANSACTION-SYSTEM
+The main objective of this VB.NET project on Bank transaction is to manage the customer’s account details and its bank transactions.This project is totally built on administrative end and thus only the administrator is guaranteed the access. The purpose of this project is to reduce the manual work of managing the updation of details, withdrawal, deposit, and transfer of money based on the account details.
+Lastly, the bank’s manager can understand their data and analyse it inorder to improve their customer management.It tracks all the details about the login, customer account and their transactions.It also manages to keep all the data organized in a report format which can then be printed for administrator needs.
